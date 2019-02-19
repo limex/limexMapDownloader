@@ -24,4 +24,5 @@ The script is a quick and dirty hack to get the stuff done: Get a printable A3 M
 Everyone in invited to extend and change the code.
 
 ### Screenshots
-TBDL
+Resulting Map with Scalebar in lower right corner:
+![Resulting Map with Scalebar](https://github.com/limex/limexMapDownloader/blob/master/out/map_BergfexOSM_16_35500_23131-35508_23137.jpg)

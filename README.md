@@ -1,5 +1,5 @@
 # limexMapDownloader
-Script to download TMS Tiles and merge them for easy Printing with Scale Bar. 
+Bash Script to download TMS Tiles and merge them for easy Printing with Scale Bar. 
 
 ### Prerequisites:  
 * This .sh file is expected in C:\progs\limexMapDownloader

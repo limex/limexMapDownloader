@@ -19,9 +19,9 @@ Some Functions from https://wiki.openstreetmap.org/wiki/Slippy_map_tilenames#Lon
 
 ### Remarks:
 This is my first bash file, so please dont expect a masterpiece.
-I used bash because the original downloader idea was in bash. Working with it I realized that some things are not as I expected.
+I used bash because the original downloader idea was in bash.
 The script is a quick and dirty hack to get the stuff done: Get a printable A3 Map without downloading expensive Apps or paying for printing service.
-Everyone in invited to extend and change the code.
+Everyone is invited to extend and change the code.
 
 ### Screenshots
 Resulting Map with Scalebar in lower right corner:
